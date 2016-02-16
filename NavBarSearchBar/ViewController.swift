@@ -14,6 +14,7 @@ class ViewController: UIViewController,UINavigationBarDelegate {
 	var rightSearchBarButtonItem: UIBarButtonItem?
 
 	override func viewDidLoad() {
+		
 		super.viewDidLoad()
 	self.navigationController?.navigationBarHidden =  false
 		
